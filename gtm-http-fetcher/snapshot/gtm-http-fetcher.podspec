@@ -8,7 +8,7 @@
 #
 Pod::Spec.new do |s|
   s.name         = "gtm-http-fetcher"
-  s.version      = "0.0.1"
+  s.version      = "snapshot"
   s.summary      = "A short description of gtm-http-fetcher."
   # s.description  = <<-DESC
   #                   An optional longer description of gtm-http-fetcher
